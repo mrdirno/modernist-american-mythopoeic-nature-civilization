@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-american-mythopoeic-nature-civilization",
+  "title": "The Current Beneath the Noise",
+  "tagline": "A man who listens to the land's deep hum must guide a boy through a town where nature's ancient patterns clash with the geometry of civilization.",
+  "target_words": 72120,
+  "actual_words": 72120,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Ancestral Knowledge vs. Modern Amnesia",
+    "The Persistence of Landscape",
+    "The Violence of Progress",
+    "Initiation and Un-Becoming"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River's Indifferent Curl",
+      "words": 6010
+    },
+    {
+      "ch": 2,
+      "title": "The Fiction of & Son",
+      "words": 6010
+    },
+    {
+      "ch": 3,
+      "title": "What the Creek Hadn't Washed Away",
+      "words": 6010
+    },
+    {
+      "ch": 4,
+      "title": "A Declaration in Lines and Nodes",
+      "words": 6010
+    },
+    {
+      "ch": 5,
+      "title": "A Street Laid Perpendicular",
+      "words": 6010
+    },
+    {
+      "ch": 6,
+      "title": "The Shape of a New Quiet",
+      "words": 6010
+    },
+    {
+      "ch": 7,
+      "title": "The Descent as Un-Becoming",
+      "words": 6010
+    },
+    {
+      "ch": 8,
+      "title": "The Weeping of Steel",
+      "words": 6010
+    },
+    {
+      "ch": 9,
+      "title": "The Geography of a New Quiet",
+      "words": 6010
+    },
+    {
+      "ch": 10,
+      "title": "The Gash That Never Healed",
+      "words": 6010
+    },
+    {
+      "ch": 11,
+      "title": "Gravel in the Wound",
+      "words": 6010
+    },
+    {
+      "ch": 12,
+      "title": "The Unchanged Essential Character",
+      "words": 6010
+    }
+  ]
+}
